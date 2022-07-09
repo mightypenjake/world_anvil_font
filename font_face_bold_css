@@ -1,0 +1,6 @@
+ @font-face {
+ font-family: elven;
+ font-style: bold;
+ font-weight: 400;
+ src: url(https://rawcdn.githack.com/mightypenjake/world_anvil_font/4f2f034d784af926ffa7ac82f4b3a1f8e265ba0d/halfelvenbold.ttf) ;
+ }
