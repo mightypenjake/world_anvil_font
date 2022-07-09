@@ -1,6 +1,0 @@
-@font-face {
- font-family: halfelven;
- font-style: normal;
- font-weight: 400;
- src: url(https://rawcdn.githack.com/mightypenjake/world_anvil_font/4e22331ae4a6c3bc250f9500f45d8823b62bcb11/halfelven.ttf) ;
-}

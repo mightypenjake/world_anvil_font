@@ -1,0 +1,29 @@
+@font-face {
+ font-family: elven;
+ font-style: normal;
+ font-weight: 400;
+ src: url(https://rawcdn.githack.com/mightypenjake/world_anvil_font/4e22331ae4a6c3bc250f9500f45d8823b62bcb11/halfelven.ttf) ;
+}
+
+@font-face {
+ font-family: elven;
+ font-style: 3d;
+ font-weight: 400;
+ src: url(https://rawcdn.githack.com/mightypenjake/world_anvil_font/4f2f034d784af926ffa7ac82f4b3a1f8e265ba0d/halfelven3d.ttf) ;
+ }
+ 
+ @font-face {
+ font-family: elven;
+ font-style: 3dit;
+ font-weight: 400;
+ src: url(https://rawcdn.githack.com/mightypenjake/world_anvil_font/4f2f034d784af926ffa7ac82f4b3a1f8e265ba0d/halfelven3dital.ttf) ;
+ }
+
+ @font-face {
+ font-family: elven;
+ font-style: bold;
+ font-weight: 400;
+ src: url(https://rawcdn.githack.com/mightypenjake/world_anvil_font/4f2f034d784af926ffa7ac82f4b3a1f8e265ba0d/halfelvenbold.ttf) ;
+ }
+ 
+ 
