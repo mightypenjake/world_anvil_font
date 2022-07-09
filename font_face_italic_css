@@ -1,5 +1,5 @@
 @font-face {
- font-family: elven;
+ font-family: elvenitalic;
  font-style: italic;
  font-weight: 400;
  src: url(https://rawcdn.githack.com/mightypenjake/world_anvil_font/0537a41233011ff6d3841dbe1e78d3c9102c6798/halfelvenital.ttf) ;
