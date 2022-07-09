@@ -2,5 +2,5 @@
  font-family: halfelven.ttf;
  font-style: normal;
  font-weight: 400;
- src: url(https://github.com/mightypenjake/world_anvil_font/blob/main/halfelven.ttf) ;
+ src: url(https://rawcdn.githack.com/mightypenjake/world_anvil_font/9bed245988795fde6c9ec584a28ddd4517536194/font-face%20CSS%20regular) ;
 }
